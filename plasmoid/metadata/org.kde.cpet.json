@@ -1,0 +1,15 @@
+{
+  "KPlugin": {
+    "Authors": [{
+      "Name": "Kilo",
+      "Email": "kilo@kde.org"
+    }],
+    "Description": "A cute desktop pet cat with mint pixel look",
+    "Id": "org.kde.cpet",
+    "Version": "1.0"
+  },
+  "layout": {
+    "minimumWidth": 100,
+    "minimumHeight": 100
+  }
+}

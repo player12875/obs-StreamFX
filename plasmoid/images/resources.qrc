@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>cat-sitting.ppm</file>
+        <file>cat-walk1.ppm</file>
+        <file>cat-walk2.ppm</file>
+        <file>cat-walk3.ppm</file>
+        <file>cat-walk4.ppm</file>
+        <file>cat-walk5.ppm</file>
+        <file>cat-walk6.ppm</file>
+        <file>cat-walk7.ppm</file>
+        <file>cat-walk8.ppm</file>
+    </qresource>
+</RCC>

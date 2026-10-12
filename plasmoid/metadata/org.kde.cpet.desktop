@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Cute Pet Cat
+Comment=A charming desktop pet cat with mint pixel aesthetic
+Type=Service
+ServiceTypes=Plasma/Layout
+X-Plasma-API=qtquick
+X-Plasma-MainScript=ui/main.qml
+X-KDE-PluginInfo-Author="Kilo"
+X-KDE-PluginInfo-Email="kilo@kde.org"
+X-KDE-PluginInfo-Name=cpet
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=GPL-3.0-only
+X-KDE-PluginInfo-Website=https://invent.kde.org
+X-KDE-PluginInfo-Category=Desktop Entertainment
